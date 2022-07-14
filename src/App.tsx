@@ -1,5 +1,4 @@
 import { useState, useRef, useEffect } from 'react'
-import TextareaAutosize from 'react-textarea-autosize'
 
 function App() {
   const [blocnote, setBlocnote] = useState("")
