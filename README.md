@@ -1,3 +1,3 @@
-# blocnote
+# [blocnote](https://loicmagne.github.io/blocnote/)
 
 notepad with data saved in localstorage so you don't lose it on restart/crash, no server involved
