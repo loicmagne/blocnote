@@ -43,7 +43,6 @@ const App = () => {
   useEffect(() => {
     if (blocnoteRef.current) {
       // resize to fit content
-      blocnoteRef.current.style.height = ``
       blocnoteRef.current.style.height = `${blocnoteRef.current.scrollHeight}px`
     }
   }, [blocnoteRef, blocnote])
